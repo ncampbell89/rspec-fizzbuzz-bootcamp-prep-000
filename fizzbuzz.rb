@@ -7,4 +7,5 @@ def fizzbuzz(fizz_3, fizz_5, fizz_15)
     "FizzBuzz"
   else
     nil
+  end
 end
