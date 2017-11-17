@@ -3,5 +3,3 @@ def fizzbuzz(int)
     "Fizz"
   end
 end
-
-fizz_5 == "Buzz"
