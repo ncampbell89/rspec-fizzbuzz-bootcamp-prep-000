@@ -4,4 +4,4 @@ def fizzbuzz(int)
   end
 end
 
-fizzbuzz(5) == "Buzz"
+fizz_5 == "Buzz"
